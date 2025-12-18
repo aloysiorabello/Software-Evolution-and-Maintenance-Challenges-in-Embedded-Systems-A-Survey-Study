@@ -27,7 +27,7 @@ The repository includes:
 All data have been anonymized to ensure participant confidentiality.
 
 ## 📁 Repository Structure
-
+```
 .
 ├── data/
 │ ├── raw/ # Original survey responses (anonymized)
@@ -36,6 +36,7 @@ All data have been anonymized to ensure participant confidentiality.
 ├── scripts/ # Scripts for data processing and visualization
 ├── questionnaire/ # Survey questionnaire
 └── README.md
+```
 
 ## 🧪 Methodology Overview
 
