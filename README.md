@@ -32,8 +32,7 @@ All data have been anonymized to ensure participant confidentiality.
 ├── data/
 │ ├── raw/ # Original survey responses (anonymized)
 │ └── processed/ # Cleaned and processed datasets
-├── figures/ # Figures used in the paper
-├── scripts/ # Scripts for data processing and visualization
+├── fx/ # Figures used in the paper
 ├── questionnaire/ # Survey questionnaire
 └── README.md
 ```
