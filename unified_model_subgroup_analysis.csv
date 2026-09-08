@@ -1,0 +1,13 @@
+﻿Survey_Question,Reported_Category,No_Prior_Use_n34,Prior_Use_n2
+SQ11,Automated Testing,24,0
+SQ11,Code Refactoring,17,2
+SQ11,Code Inspection,16,0
+SQ11,Obsolescence Analysis,15,1
+SQ11,Configuration Management,13,2
+SQ11,Technical Debt Review,13,0
+SQ12,Improved Software Quality,26,2
+SQ12,Greater Efficiency,17,1
+SQ12,Defect Reduction,16,1
+SQ12,Cost Reduction,11,0
+SQ12,Improved Process Coordination,9,1
+SQ12,Other: Time-Based Tracking,1,0

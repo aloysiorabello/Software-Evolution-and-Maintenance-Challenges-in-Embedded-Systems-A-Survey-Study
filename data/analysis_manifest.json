@@ -1,0 +1,13 @@
+{
+  "raw_export_records": 38,
+  "analytical_records": 36,
+  "analytical_rule": "Use the first 36 Google Forms submissions.",
+  "first_analytical_timestamp": "09/08/2024 16:42:04",
+  "last_analytical_timestamp": "28/10/2024 14:55:10",
+  "excluded_test_records": 2,
+  "excluded_test_timestamps": [
+    "12/07/2024 10:22:00",
+    "12/07/2024 10:23:17"
+  ],
+  "exclusion_reason": "test submissions created by the researcher and supervisor; excluded from all analyses."
+}

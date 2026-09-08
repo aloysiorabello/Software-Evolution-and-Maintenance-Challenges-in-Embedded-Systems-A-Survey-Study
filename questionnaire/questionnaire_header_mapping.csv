@@ -1,0 +1,31 @@
+﻿Survey_Item,Original_Portuguese_Question
+SQ01,Carimbo de data/hora
+SQ02,Perfil do Participante
+SQ03,Quantos anos de experiência você tem na área de sistemas embarcados?
+SQ04,Qual é a sua função atual na empresa?
+SQ05,Em qual domínio a sua empresa atua?
+SQ06,Em qual país você trabalha?
+SQ07,Quais características você considera mais importantes na manutenção de software embarcado?
+SQ08,Quais estratégias você utiliza para a manutenção de software embarcado?
+SQ09,Quais são as principais dificuldades encontradas na manutenção de software embarcado?
+SQ10,Você já utilizou um modelo unificado que integre múltiplas estratégias de manutenção e evolução?
+SQ11,Quais componentes você acredita serem essenciais para um modelo unificado de manutenção e evolução?
+SQ12,"Na sua experiência, quais são os benefícios de um modelo unificado para manutenção e evolução de software?"
+SQ13,Quais ferramentas de software você utiliza para manutenção de software embarcado?
+SQ14,Como você avalia a eficácia dessas ferramentas no suporte à manutenção e evolução de software embarcado?
+SQ15,"Você já comparou diferentes ferramentas de software para manutenção? Se sim, qual foi a mais eficaz?"
+SQ16,Ferramenta mais eficaz:
+SQ17,Quais são as maiores dificuldades que você enfrenta na aplicação de estratégias de manutenção?
+SQ18,Quais métodos você utiliza para superar essas dificuldades?
+SQ19,Você acredita que a integração de novas tecnologias facilita ou dificulta a manutenção do software?
+SQ20,Quais são as fases do ciclo de vida do software embarcado que podem ser afetadas pela manutenção?
+SQ21,Como essas fases do ciclo de vida são afetadas?
+SQ22,Quais são os principais desafios durante o planejamento da manutenção de software embarcado?
+SQ23,Você já teve que realizar retrabalho devido à falta de planejamento adequado na fase inicial?
+SQ24,Frequência que realizou retrabalho:
+SQ25,Quais métricas você considera importantes para avaliar a manutenção de software embarcado?
+SQ26,Como você mede o desempenho em tempo real e o consumo de energia no contexto de manutenção?
+SQ27,Quais dificuldades você enfrenta na padronização das métricas para manutenção de software embarcado?
+SQ28,"Você utiliza metodologias ágeis (Scrum, XP) em seus projetos de software embarcado?"
+SQ29,Quais adaptações são necessárias para aplicar metodologias ágeis em sistemas embarcados?
+SQ30,"Na sua opinião, quais são os benefícios das metodologias ágeis no contexto de software embarcado?"

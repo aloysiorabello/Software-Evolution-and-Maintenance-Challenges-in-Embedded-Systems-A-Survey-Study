@@ -1,0 +1,22 @@
+﻿figure_file,survey_question,recommended_caption,denominator,processing_note
+1timeXP.png,SQ03,Experience of Participants,n=36,Single-choice responses.
+2funcAtual.png,SQ04,Current Job Function of Participants,n=36,Role labels translated; whitespace normalized.
+3dominioAtual.png,SQ05,Current Company Domain of Participants,n=36,Finanças and Financeiro normalized to Finance.
+4caracteristicas.png,SQ07,Most Important Characteristics in Embedded Software Maintenance,n=36,Multiple selections; values are selection counts.
+14Dificuldades.png,SQ09,Main Difficulties in Embedded Software Maintenance,n=36,Multiple selections.
+19utilModUnificado.png,SQ10,Reported Prior Use of a Unified Maintenance and Evolution Model,n=36,"34 No, 2 Yes."
+20componentes.png,SQ11,Expected Components of a Unified Maintenance and Evolution Model,n=36,Multiple selections.
+21beneficios.png,SQ12,Perceived Potential Benefits of a Unified Maintenance and Evolution Model,n=36,One n/a response excluded from substantive categories; one free-text Other retained.
+30ferramentasTotal.png,SQ13,Software Tools Reported for Embedded Software Maintenance,n=36,Multiple tools may be reported per participant.
+36dificuldadeEstrategiaTotal.png,SQ09 + SQ08,Independent Summary of Reported Difficulties and Maintenance Strategies,n=36,Independent questions; no pairwise relationship is inferred.
+37metodoEstrategiaTotal.png,SQ18,Methods Reported to Overcome Maintenance Difficulties,n=36,Multiple selections; one free-text no-mitigation response retained as Other.
+38tecEstrategiaTotal.png,SQ19,Perceived Impact of New Technologies on Software Maintenance,n=36,Single-choice responses.
+39impactoCicloTotal.png,SQ20,Lifecycle Phases Reported as Affected by Maintenance,n=36,"Selection counts, not impact magnitude."
+44desafioPlanejamentoTotal.png,SQ22,Main Planning Challenges,n=36,Multiple selections; two free-text additions retained as Other.
+45retrabalhoTotal.png,SQ23,Reported Rework Due to Inadequate Initial Planning,n=36,"32 Yes, 4 No."
+46retrabalhoFreqTotal.png,SQ24,Reported Frequency of Rework Among Respondents Reporting Rework,n=32,Conditional free-text coding; respondents answering No in SQ23 excluded.
+47MetAvaliarManuTotal.png,SQ25,Metrics Considered Important for Evaluating Embedded Software Maintenance,n=36,Multiple selections; two free-text additions retained as Other.
+48metTempoRealTotal.png,SQ26,Methods Used to Measure Real-Time Performance and Energy Consumption,n=36,Multiple selections; two free-text additions retained as Other.
+49metDificuldadeTotal.png,SQ27,Difficulties in Standardizing Maintenance Metrics,n=36,Multiple selections; one n/a excluded and two substantive free-text additions retained as Other.
+50utilizacaoXP.png,SQ28,Reported Use of Agile Methodologies,n=36,"24 Yes, 12 No."
+51adapXP.png,SQ29,Adaptations Reported for Agile Methodologies in Embedded Systems,n=36,Multiple selections; five free-text additions retained as Other.

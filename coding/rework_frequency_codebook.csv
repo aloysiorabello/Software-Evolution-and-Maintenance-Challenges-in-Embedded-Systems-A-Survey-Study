@@ -1,0 +1,5 @@
+﻿reported_category,coding_rule
+High,"Explicit high-frequency wording (Alta/Muita), almost every project, or all companies/all times."
+Moderate,Explicit moderate wording or Às vezes/Algumas vezes.
+Low,Explicit low wording or Baixa/Raramente.
+Not specified / not classifiable,"Blank, non-quantified, or ambiguous qualitative comment."

@@ -1,0 +1,38 @@
+﻿survey_question,raw_value_pt,reported_value_en,rule
+SQ03,Menos de 1 ano,Less than 1 year,direct translation
+SQ03,1-3 anos,1--3 years,direct translation
+SQ03,3-5 anos,3--5 years,direct translation
+SQ03,5-10 anos,5--10 years,direct translation
+SQ03,Mais de 10 anos,More than 10 years,direct translation
+SQ05,Finanças,Finance,semantic normalization
+SQ05,Financeiro,Finance,semantic normalization
+SQ10,Sim,Yes,direct translation
+SQ10,Não,No,direct translation
+SQ14,Pouco eficaz,Slightly effective,direct translation
+SQ14,Neutro,Neutral,direct translation
+SQ14,Eficaz,Effective,direct translation
+SQ14,Muito eficaz,Very effective,direct translation
+SQ19,Depende das tecnologias,Depends on the Technology,direct translation
+SQ19,Facilita,Facilitates,direct translation
+SQ19,Dificulta,Hinders,direct translation
+SQ19,Não tenho certeza,Not Sure,direct translation
+SQ23,Sim,Yes,direct translation
+SQ23,Não,No,direct translation
+SQ28,Sim,Yes,direct translation
+SQ28,Não,No,direct translation
+SQ08,Somente corretiva.,Other,free-text addition
+SQ08,Analise de Arquitetura,Other,free-text addition
+SQ12,Rastreamento de evolução temporal do projeto,Other: Time-Based Tracking,free-text addition
+SQ18,Não consigo superar as dificuldades.,Other / no mitigation reported,free-text addition
+SQ22,Software legado,Other,free-text addition
+SQ25,Quantidade de hardwares e configuracoes suportados ao mesmo tempo.,Other,free-text addition
+SQ25,Cumprimento dos requisitos,Other,free-text addition
+SQ26,Feedback dos clientes,Other,free-text addition
+SQ26,bancada de ensaio por dispositivo,Other,free-text addition
+SQ27,Dificuldade em medir as métricas em ambientes de desenvolvimento.,Other,free-text addition
+SQ27,Tempo,Other,free-text addition
+SQ29,Mudança de mindset em todo o time,Other,free-text addition
+SQ29,nenhuma,Other,free-text addition
+SQ29,Treinamento adequado para a equipe,Other,free-text addition
+SQ29,Aumentar a equipe (atualmente sou apenas eu),Other,free-text addition
+SQ29,Ajuste de prazo e entrega com entendimento da complexidade das atividades,Other,free-text addition

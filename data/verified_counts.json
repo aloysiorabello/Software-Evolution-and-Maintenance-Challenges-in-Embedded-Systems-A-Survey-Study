@@ -1,0 +1,195 @@
+{
+  "experience": {
+    "More than 10 years": 7,
+    "Less than 1 year": 5,
+    "5--10 years": 5,
+    "1--3 years": 10,
+    "3--5 years": 9
+  },
+  "roles": {
+    "Researcher": 7,
+    "Software Engineer": 17,
+    "Project Manager": 5,
+    "IT Coordinator": 1,
+    "Data Engineer": 1,
+    "Manufacturing Engineer": 1,
+    "Infrastructure Analyst": 1,
+    "CTO": 1,
+    "Product Development Engineer": 1,
+    "Professor": 1
+  },
+  "domains": {
+    "Education": 1,
+    "Healthcare": 2,
+    "Utilities": 1,
+    "Telecommunications": 6,
+    "Education & Training": 5,
+    "Space R&D": 1,
+    "Aerospace": 5,
+    "Robotics": 6,
+    "Energy": 1,
+    "Payment Systems": 1,
+    "Security": 1,
+    "Automotive": 3,
+    "Finance": 2,
+    "Environmental Monitoring": 1
+  },
+  "countries": {
+    "Brazil": 29,
+    "Belgium": 1,
+    "Portugal": 1,
+    "Netherlands": 1,
+    "Ireland": 2,
+    "Argentina": 2
+  },
+  "SQ07": {
+    "Stability": 22,
+    "Security": 19,
+    "Code Readability": 18,
+    "Ease of Integration": 15,
+    "Flexibility": 13,
+    "Efficiency": 12
+  },
+  "SQ08": {
+    "Code Review": 26,
+    "Code Refactoring": 23,
+    "Configuration Management": 14,
+    "Automated Testing": 12,
+    "Obsolescence Analysis": 6,
+    "Other": 2
+  },
+  "SQ09": {
+    "Lack of Documentation": 26,
+    "Integration of New Technologies": 22,
+    "Hardware Limitations": 16,
+    "Frequent Rework": 11,
+    "Design Complexity": 10
+  },
+  "SQ10": {
+    "No": 34,
+    "Yes": 2
+  },
+  "SQ11": {
+    "Automated Testing": 24,
+    "Code Refactoring": 19,
+    "Code Inspection": 16,
+    "Obsolescence Analysis": 16,
+    "Configuration Management": 15,
+    "Technical Debt Review": 13
+  },
+  "SQ12": {
+    "Improved Software Quality": 28,
+    "Greater Efficiency": 18,
+    "Defect Reduction": 17,
+    "Cost Reduction": 11,
+    "Improved Process Coordination": 10,
+    "Other: Time-Based Tracking": 1
+  },
+  "SQ13_tools": {
+    "Git/GitHub": 33,
+    "Jenkins": 3,
+    "LLVM": 3,
+    "Solar": 2,
+    "QA Cafe / CDRouter": 1,
+    "Redmine": 1,
+    "Vivado": 1
+  },
+  "SQ14": {
+    "Effective": 23,
+    "Neutral": 8,
+    "Slightly effective": 2,
+    "Very effective": 3
+  },
+  "SQ15": {
+    "No": 34,
+    "Yes": 2
+  },
+  "SQ17": {
+    "Lack of Training": 21,
+    "Time Constraints": 19,
+    "Code Complexity": 15,
+    "Budget Constraints": 13,
+    "Lack of Adequate Tools": 10,
+    "Other": 1
+  },
+  "SQ18": {
+    "Collaboration with Specialists": 22,
+    "Additional Training": 18,
+    "Improved Documentation": 15,
+    "Specialized Tools": 12,
+    "Process Automation": 11,
+    "Other / no mitigation reported": 1
+  },
+  "SQ19": {
+    "Hinders": 4,
+    "Depends on the Technology": 22,
+    "Facilitates": 8,
+    "Not Sure": 2
+  },
+  "SQ20": {
+    "Implementation": 31,
+    "Testing": 26,
+    "Discontinuation": 16,
+    "Design": 12,
+    "Planning": 11,
+    "Requirements": 10
+  },
+  "SQ22": {
+    "Forecasting Future Issues": 26,
+    "Integration of New Technologies": 25,
+    "Team Coordination": 18,
+    "Requirements Identification": 14,
+    "Resource Allocation": 11,
+    "Other": 2
+  },
+  "SQ23": {
+    "Yes": 32,
+    "No": 4
+  },
+  "SQ24": {
+    "Not specified / not classifiable": 18,
+    "High": 7,
+    "Moderate": 4,
+    "Low": 3
+  },
+  "SQ25": {
+    "Real-Time Performance": 21,
+    "Defect Reduction": 20,
+    "Code Quality": 19,
+    "Maintenance Time": 17,
+    "Energy Consumption": 15,
+    "Tool Effectiveness": 9,
+    "Other": 2
+  },
+  "SQ26": {
+    "Monitoring Tools": 18,
+    "Specific Tests": 17,
+    "Manual Evaluation": 16,
+    "Benchmarking": 14,
+    "Other": 2
+  },
+  "SQ27": {
+    "Team Resistance": 17,
+    "Metric Complexity": 16,
+    "System Variety": 14,
+    "Lack of Tools": 11,
+    "Other": 2
+  },
+  "SQ28": {
+    "Yes": 24,
+    "No": 12
+  },
+  "SQ29": {
+    "Sprint Customization": 24,
+    "Documentation Adjustments": 22,
+    "Continuous Integration": 14,
+    "Role Redefinition": 9,
+    "Other": 5
+  },
+  "SQ30": {
+    "Better Response to Change": 22,
+    "Greater Flexibility": 19,
+    "Increased Collaboration": 12,
+    "Reduced Rework": 9
+  }
+}
